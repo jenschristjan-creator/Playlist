@@ -1,4 +1,5 @@
-**playlist**
+***playlist***
+
 This program reads song names from a file called playlist.txt, stores them in a singly linked list, 
 removes one track, adds a new one, prints the playlist, and then saves the updated list to a file called playlist-out.txt.
 
